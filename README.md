@@ -2,7 +2,7 @@
 
 Hi, I am a hobbiyst programmer studying cybersecurity. 
 I do writeups of HTB and such, not much special here...
-
-## **Currently learning(📖)**:
+##
+**Currently learning(📖)**:
           ● Registry edits and presistance
           ● Dll sideloading
