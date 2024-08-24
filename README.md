@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=EFF7D9&background=7F71FF22&vCenter=true&width=500&height=45&lines=Bizzi!;Amature+Malware-dev+and+Red-Teamer...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=25&pause=1000&color=8AF73F&width=700&separator=%3C&lines=if+(!goal)+%7BReTry(+;%7D+else+%7Bxp%2B%2B;+newgoal(xp);%7D%3Cwhile+(doubt)+%7B+ignore();+continue;%7D%3C%3A))](https://git.io/typing-svg)
 
 Hi, Im a hobbyist programmer and data analyst.
 I do writeups of HTB and THM from time to time...
