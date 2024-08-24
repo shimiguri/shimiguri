@@ -4,7 +4,7 @@ Hi, I am a hobbiyst programmer studying cybersecurity.
 I do writeups of HTB and such, not much special here...  
 
 <img src="https://i.imgur.com/lJM2eis.png"
-     width="200" 
+     width="500" 
           >
 
 ## **Currently learning(📖)**:
