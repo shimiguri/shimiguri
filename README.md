@@ -16,6 +16,9 @@ I do writeups of HTB and such, not much special here...
           >,
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"
      width="25" 
+          >and 
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Powershell-Dark.svg"
+     width="25" 
           >
 ## **Currently learning(📖)**:
           ● Registry edits and presistance
