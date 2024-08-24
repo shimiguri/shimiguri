@@ -3,7 +3,7 @@
 Hi, I am a hobbiyst programmer studying cybersecurity. 
 I do writeups of HTB and such, not much special here...
 
-<img src="https://live.staticflickr.com/1560/23914858783_2ca7e6fdd6_b.jpg" onerror="alert(document.domain)">
+<img src="https://live.staticflickr.com/1560/23914858783_2ca7e6fdd6_b.jpg">
 
 ## **Currently learning(📖)**:
           ● Registry edits and presistance
