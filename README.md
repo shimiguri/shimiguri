@@ -3,19 +3,7 @@ Hi, Im bizzi... I enjoy programmer and data analysis. You can find me on discord
 Dont mind the badly written code, I am still improving...  :)
 
 ##
-So far I am familiar with code written in:
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg"
-     width="25" 
-          >, 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Python-Dark.svg"
-     width="25" 
-          >, 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg"
-     width="25" 
-          >, 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Powershell-Dark.svg"
-     width="25" 
-          >
+So far I am familiar with code written in: Python, C, C#, Bash and obviously Holy C
 ## **Currently learning(📖)**:
           ● Registry edits and presistance
           ● Dll sideloading
