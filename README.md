@@ -3,7 +3,7 @@ Hi, Im bizzi... I enjoy programmer and data analysis. You can find me on discord
 Dont mind the badly written code, I am still improving...  :)
 
 ##
-So far I am familiar with code written in: Python, C, C#, Bash and obviously Holy C
+So far I am familiar with code written in: Python, Bash, C, C# and obviously Holy C
 ## **Currently learning(📖)**:
           ● Registry edits and presistance
           ● Dll sideloading
