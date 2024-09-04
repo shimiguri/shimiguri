@@ -4,9 +4,9 @@ Hi, Im bizzi... I enjoy programmer and data analysis. <br>
 You can find me on discord[**bizzare_camel**] if you have feedback or questions. <br>
 Dont mind the badly written code, I am still improving...  :)<br>
 
-<img width="20%" src="https://lh3.googleusercontent.com/fife/ALs6j_FfbSYHIsQjupnvin02piJv2Uhzgj-CXnqiJho5Tfp9JUIsoZlXkfMhfLur6FWtc_HavFEcUvfG9iBjPhuL2ARcp4vqRzBdqck0gJCtqGFwxNyeSR2lkL6qV225RGGItGyobaQ7LQ8g3VB8LG2RlKFkKrCKxYfIVwq1emIkuBK6dPWxOiBfF8F_HWZ1vSFkWzPXns8RY4H3YuQgdD0Y61KdZmAaqPU0h7SWpL3JjW2J643wNsSgmLmshQB_VT_ykUepj0IkN3Oza3OseLR6e1-NTPBOwpZ_UiFPO-Rjf7NaY4UtewZJxZiNlSMJKVq-m5jnw7yoxOc2xxczW_K6bqfqnNoFIxt8tvuuyI6XICMyL8Z1gZgxZsCWunpIzqff-V7Kw-2p01eICt2zolkz7X2MmM0B_Fvxujn38lrnFN6jLD4go_zX9hWlavXpgTkpIA8jP7XgdoUqoMGXmBk5rZxhvj138YoxnLm-EqWWNcbCD_8_-ejz5Z5bPpyTGhpbd3DGEpa_ehlv7ZVPmn2tK25uEwPApqO1i2nAxTYKBHcn-yx0xwasSb0p1LGVbLWVZbjWJ2NeQLZqS3C7hJE5koUvnF1iSXcX2wz08qFYzfB6G_3TC58NmbavPgmcApYHIGDuJrvB6iqvZVwkOlj4NWS11dz3WTavoRzHe9lsvP7SPJxLwWbxd9LoLKdDIypb1p2i88NyYixKqMcY7X8faa521796cAsgAkNR9GabLCaySGokKt02GwYF6tExPbrmZ8zSx3wFpQ8YUd4hqC3Jdg1VEjSEhoDjcDJgoLQbkOr6HbvvU6hKS1563ldEGUO2-ScEpFIat3Sn8h_6-NSj6W8CyvzHrBZuOrHATMKCuE2ko-8je3dijEBbu7By9jlHsPNkQQ8S7itXiXTZHa3DfS5BWX4e1yWMoXrNsuuOIMC86zx-yTFwVyzn4XsdZ36ZtxMVvT8e2Pqiqx_v_gy25-cGk0bRGYyRPOEetWLu3wBOWRqbRk4wa2Z2pXqAxAJDkFO7Txy1HYqjYHMjloKWCqw5GE-GjiRurTirQVE9X5ZQWOd4fVs3mMuhxe05y2GttDrMo5-zBA2r43Yb1een1qF7pb7EjmX15AunL09WU0pW225qQYPWiW5i_LtHBKAk_RmtuCbzUkFZsktnes69BilwR09MmALvKgY0NUgaz7HxR_jH-PWN2IC9HWf14VjWwWRwaAzOhvuEMP6EGJBZ_ClRMqgMgNkR8DqUq9_6-Sf2l4kxP5wL6XkCBUVqOiCPoxFSwu7WsN1hacidUyWDmhuWR4Fpfpe7GqRCbQ8mE0qjr3QHF3jE82zM2rAYKtUowP0MxfyLBpOexMceYMqiezoWpDXwjISnYI20Q1dUdFA2EzAkHtPWEkbPYzhiQyrrZCfYdHO2K6G-6xeU8ijg8VdZXoQTjZ34bLnw1lb4dkg6Z8NIXQU3FkLS2N62w06lN7c-DvMQMVVzdXHQHi3letXi_4Y2sePP1rY_8kp6AEolPaC-_3G2-j3FBKtKv2xVIdBBCOVeZ8IpF_VCBtcoAsAGVCnsA0RqcGeDjwAVY9ALO1nnGtnlXOsEK90yb8uvkhXEgC2Otiw6fABrl35bAks4HM7CgOzUk2TMakeRptMZYs5-JIhgKqwMwQxZsrTlzGOkA44EGTbTDsfbJ5v8YjNBuD_rjb0=w2560-h1240"> 
+<img width="20%" src=""> 
 
-## So far I am familiar with code written in: Python, Bash, C, C# and obviously Holy C
+## 🔶 So far I am familiar with code written in:🔸Python,🔸Bash,🔸C,🔸C# and obviously Holy C (🧡)
 ## **Currently learning(📙)**:
           ● Registry edits and presistance
           ● Assembly
