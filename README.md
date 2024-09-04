@@ -7,4 +7,4 @@ Dont mind the badly written code, I am still improving...  :)
 So far I am familiar with code written in: Python, Bash, C, C# and obviously Holy C
 ## **Currently learning(📙)**:
           ● Registry edits and presistance
-          ● Dll sideloading
+          ● Assembly
