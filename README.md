@@ -11,5 +11,5 @@ __🔶 So far I am familiar with code written in:🔸Python,🔸Bash,🔸C,🔸C
           ● Registry edits and presistance
           ● Assembly
 
-* Sidenote:
+* Sidenote:<br>
   In case you havent noticed i like hollow knight
