@@ -6,7 +6,7 @@ Dont mind the badly written code, I am still improving...  :)<br>
 
 <img width="20%" src=""> 
 
-## 🔶 So far I am familiar with code written in:🔸Python,🔸Bash,🔸C,🔸C# and obviously Holy C (🧡)
+___/🔶 So far I am familiar with code written in:🔸Python,🔸Bash,🔸C,🔸C# and obviously Holy C (🧡)\___
 ## **Currently learning(📙)**:
           ● Registry edits and presistance
           ● Assembly
