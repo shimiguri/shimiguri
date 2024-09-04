@@ -10,3 +10,6 @@ __🔶 So far I am familiar with code written in:🔸Python,🔸Bash,🔸C,🔸C
 ## **Currently learning(📙)**:
           ● Registry edits and presistance
           ● Assembly
+
+* Sidenote:
+  In case you havent noticed i like hollow knight
