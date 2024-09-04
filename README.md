@@ -12,4 +12,4 @@ __🔶 So far I am familiar with code written in: Python, Bash, C, C# and obviou
           🔸 Assembly
 
 * Sidenote:<br>
-  🔸In case you havent noticed i like hollow knight
+  🔸In case you havent noticed I like Hollow Knight
